@@ -1,0 +1,5 @@
+export const payment = "payment"
+export const partner = "partner"
+export const product = "product"
+export const buy = "buy"
+export const sell = "sell"
